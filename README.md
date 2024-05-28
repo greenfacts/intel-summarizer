@@ -5,6 +5,6 @@ This work is meant to help understand how an LLM can be used to distil security 
 
 Model Cards:  
 - [T5](https://huggingface.co/google/flan-t5-xl)  
-- [Stable Diffusion] (https://huggingface.co/runwayml/stable-diffusion-v1-5)
+- [Stable Diffusion](https://huggingface.co/runwayml/stable-diffusion-v1-5)
 
 Note: To avoid plagiarism, articles from Wikipedia were used instead of actual intelligence articles.
